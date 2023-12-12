@@ -138,27 +138,27 @@ steps:
 
 
 
-<img src="./img/Cmd_1.png" />
+<img src="./img/cmd_1.png" alter="Cmd 1" />
 
 
 
-<img src="./img/Cmd_2.png" />
+<img src="./img/Cmd_2.png" alter="Cmd 2" />
 
 
 
-<img src="./img/Cmd_3.png" />
+<img src="./img/Cmd_3.png" alter="Cmd 3"/>
 
 - PAT => Personal Access Token 
 
 
 
 
-<img src="./img/Cmd_4.png" />
+<img src="./img/Cmd_4.png" alter="Cmd 4"/>
 
 - Gives pool name 
 
 
-<img src="./img/Cmd_5.png" />
+<img src="./img/Cmd_5.png" alter="Cmd 5" />
 
 - Work folder where run, build, latest file 
 - Enter with y 
@@ -170,28 +170,29 @@ steps:
 - PS C:\agent> .\run.cmd
 - Listien it out of job 
 
-<img src="./img/Cmd_6.png" />
+<img src="./img/Cmd_6.png" alter="Cmd 6"/>
+
 ### After Creating local Agent pool 
 - Change the YAML file 
 - So that YAML file indicate the (our own Agent Pool)
 
 
 
-<img src="./img/Cmd_7.png" />
+<img src="./img/Cmd_7.png" alter="Cmd 7"/>
 
 - YAML Edit by  mycomputeragent
 
 
 
 
-<img src="./img/Cmd_8.png" />
+<img src="./img/Cmd_8.png" alter="Cmd 8"/>
 
 - Running YAML pipeline with Self hosted agents 
 - Step by Step task execute 
 
 
 
-<img src="./img/Cmd_9.png" />
+<img src="./img/Cmd_9.png" alter="Cmd 9"/>
 
 
 
