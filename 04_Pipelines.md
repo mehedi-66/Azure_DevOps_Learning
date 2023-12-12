@@ -3,7 +3,8 @@
 
 -  First Need to understand **Agents** 
 
-![Pipeline 1](https://drive.google.com/uc?id=18VMovcEwWiU6VaW8RCMv-bMLF_3MkfUY)
+
+<img src="./img/Pipeline_1.png" alter="Pipeline 1" />
 
 - Pipeline means Series of Action/Task can be automated 
 -  Test to Go Live this part can be automated (Test, build, publish, UAT server , Go Live (with Permition Email))
@@ -11,7 +12,7 @@
 - Planing => Execution => Pipeline => Artifacts
 
 
-![Pipeline 2](https://drive.google.com/uc?id=1-LkdrSojFciT9UGKws9e-CXvNLW9bVzv)
+<img src="./img/Pipeline_2.png" alter="Pipeline 2" />
 
 ### Defining and Understanding Agents in Azure DevOps
 #
@@ -21,16 +22,20 @@
 
 ### Using project settings to configure agents 
 
-![Agent 1](https://drive.google.com/uc?id=1ljF3RSdGxBDckjbdwGkj8X5xbL5kjQqp)
+
+<img src="./img/Agent_1.png" alter="Agent 1" />
 
 - Inside settings => Pipelines => Agetn Pools 
 
-![Agent 2](https://drive.google.com/uc?id=1y16NhLNaotS5xu5K7HDkt8TEf3tGqMDh)
+
+
+<img src="./img/Agent_2.png" alter="Agent 2" />
 
 - Hosted Agent => gives by Azure Team
 - Hosted Agents and Local agents (Self Hosted agents)
 
-![Agent 3](https://drive.google.com/uc?id=1De-qJco8drGX2wmO3uSNx-zYXfZXawV9)
+<img src="./img/Agent_3.png" alter="Agent 3" />
+
 
 
 ### Creating pipeline and Running the Pipeline 
@@ -39,18 +44,16 @@
 - Select the Project Repo 
 
 
-
-![Create Pipeline 1](https://drive.google.com/uc?id=1bA2Cy2fS7qj4lOzReJs4-NxOt5N8rS5d)
+<img src="./img/Create_Pipeline_1.png" alter="Create Pipeline 1" />
 
 - Select the Project
 
-
-![Create Pipeline 2](https://drive.google.com/uc?id=1efK2kaXVeKYhaRA4CUYUDkV3whgptGuV)
+<img src="./img/Create_Pipeline_2.png" alter="Create Pipeline 2" />
 
 - Configure the Project Acordingly 
 
+<img src="./img/Create_Pipeline_3.png" alter="Create Pipeline 3" />
 
-![Create Pipeline 3](https://drive.google.com/uc?id=1940-Y9O5UgwH55dLv6QKWosiFmBYRaBX)
 
 - Review your pipeline YAML
 - YAML is a Markup language 
@@ -59,8 +62,7 @@
 
 - Save and Run the YAML file 
 
-
-![Create Pipeline 4](https://drive.google.com/uc?id=1XN5xyPQeWppFM2BzZr_xQYidaYxkgNPx)
+<img src="./img/Create_Pipeline_4.png" alter="Create Pipeline 4" />
 
 
 ```yaml
@@ -103,13 +105,15 @@ steps:
 
 - After save it commited to Repor 
 
+<img src="./img/Yaml_1.png" alter="yaml 1" />
 
-![yaml 1](https://drive.google.com/uc?id=1N9CaH-v4o0irx9tqwC0U1vXfwMhrucLE)
+
 
 - We want to run the job faild 
 - Understanding the "No hosted parallelism Error" in Azure DevOps
 
-![yaml 2](https://drive.google.com/uc?id=1-uX1HQhGh1Hb0cOyYIGRP0zKtte2cU66)
+<img src="./img/Yaml_2.png" alter="yaml 2" />
+
 
 - We create our own **Agent**
 - To solve Parallelism issue 
@@ -119,17 +123,19 @@ steps:
 - Add Pool
 
 
-
-![Pool 1](https://drive.google.com/uc?id=1AQ2xZBKuhITFhRvGtscPe2mbz25IdnVY)
+<img src="./img/CreatePool_1.png" alter="Pool 1" />
 
 - Pool Type is Self Hosted (Local machine)
 
-![Pool 2](https://drive.google.com/uc?id=1f5VZuYlCJivyAAF7IsBhqY88JIvPQww2)
+<img src="./img/CreatePool_2.png" alter="Pool 1" />
+
+
 
 - Agent nothing but a software 
 - A software by Download Agnet 
 
-![AgentPC 1](https://drive.google.com/uc?id=1GI6hWz_VSx336Nr1w4z9vl88teno3HoI)
+<img src="./img/AgentPC_1.png" alter="AgentPC 1" />
+
 
 - Extract the download file 
 
