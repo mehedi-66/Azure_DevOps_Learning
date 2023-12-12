@@ -138,28 +138,27 @@ steps:
 
 
 
-![CMD 1](https://drive.google.com/uc?id=14PblotDUqBL4h1t3CGg4sRl4-LcO2sqg)
+<img src="./img/Cmd_1.png" />
 
 
 
-
-![CMD 2](https://drive.google.com/uc?id=1Qf6w1Uad2C5I11f7IcN8TePCjbWWR5OK)
-
+<img src="./img/Cmd_2.png" />
 
 
-![CMD 3](https://drive.google.com/uc?id=1EX-Y8guqPQyDGdsqRpbYGCiZK6crnBf-)
+
+<img src="./img/Cmd_3.png" />
 
 - PAT => Personal Access Token 
 
 
 
 
-![CMD 4](https://drive.google.com/uc?id=1KgBS0w6XCJ7vPMBkm4XaHwlazcUkVlIo)
+<img src="./img/Cmd_4.png" />
 
 - Gives pool name 
 
 
-![CMD 5](https://drive.google.com/uc?id=1csPRaBMn3yG0vcykqqIcsyeWuSr1dWQ8)
+<img src="./img/Cmd_5.png" />
 
 - Work folder where run, build, latest file 
 - Enter with y 
@@ -171,31 +170,28 @@ steps:
 - PS C:\agent> .\run.cmd
 - Listien it out of job 
 
-
-![CMD 6](https://drive.google.com/uc?id=1L-L9yALDkLvAk3tp834-71GS0XXfMKE4)
-
+<img src="./img/Cmd_6.png" />
 ### After Creating local Agent pool 
 - Change the YAML file 
 - So that YAML file indicate the (our own Agent Pool)
 
 
 
-![CMD 7](https://drive.google.com/uc?id=1R4nGm7FMAYXdUfmB1r2-jnesVzcc5t9A)
+<img src="./img/Cmd_7.png" />
 
 - YAML Edit by  mycomputeragent
 
 
 
 
-![CMD 8](https://drive.google.com/uc?id=1UHk1TGg_tWVGsbGF5b-CtQkXjWWJDiSb)
+<img src="./img/Cmd_8.png" />
 
 - Running YAML pipeline with Self hosted agents 
 - Step by Step task execute 
 
 
 
-
-![CMD 9](https://drive.google.com/uc?id=1SpJKTEp4IcSDGWeY7dvT4BVgGdJ9ae_q)
+<img src="./img/Cmd_9.png" />
 
 
 
