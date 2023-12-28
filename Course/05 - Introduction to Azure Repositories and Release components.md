@@ -14,4 +14,4 @@
 - We pass some test case 
 - Then Test pass It publish into Production ENV
 
-<img src="./../img/C_29.png" alter="Fundamental"/>
+<img src="./../img/C_29.png" alter="Fundamental"/> 
